@@ -1,6 +1,6 @@
 <h2> Welcome 👋 , I'm Andres Zepeda.</h2>
 
-I'm a software developer, specializing in building exceptional websites, web applications, mobile applications, and more.
+I'm a software developer, specializing in building exceptional websites, web applications, software and more.
 
 <h3> 🛠 &nbsp;Development Stack</h3>
 
