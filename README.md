@@ -12,7 +12,7 @@ You can find some of my projects showcased here.
 
 <h2> 🛠 &nbsp;Development Stack</h2>
 
--   &nbsp;JavaScript&nbsp; &nbsp;TypeScript&nbsp; &nbsp;Angular&nbsp; &nbsp;React&nbsp; &nbsp;Python&nbsp; &nbsp;SQL&nbsp;
+&nbsp;JavaScript&nbsp; &nbsp;TypeScript&nbsp; &nbsp;Angular&nbsp; &nbsp;React&nbsp; &nbsp;Python&nbsp; &nbsp;SQL&nbsp;
 
 </div>
 
