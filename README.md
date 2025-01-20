@@ -6,7 +6,9 @@
 About Me
 </h2>
 
-I'm a Full-Stack Developer, specializing in building sustainable and maintainable web applications, websites, products and more.
+Hi there! 👋 I'm Andres Zepeda, a Full-Stack Developer passionate about building robust and user-friendly web applications. I specialize in creating sustainable and maintainable solutions using a variety of technologies.
+
+You can find some of my projects showcased here.
 
 <h2> 🛠 &nbsp;Development Stack</h2>
 
@@ -19,7 +21,6 @@ I'm a Full-Stack Developer, specializing in building sustainable and maintainabl
     🤝  
     Connect With Me
   </h2>
-
 
   <a href="https://www.linkedin.com/in/andres-zepeda/">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
