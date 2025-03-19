@@ -16,6 +16,7 @@ You can find some of my projects showcased here.
 | [**tenzi**](https://github.com/code-qtzl/tenzi)                           | A fast-paced, strategic dice game built with React.                                      |
 | [**webcrawler-js-http**](https://github.com/code-qtzl/webcrawler-js-http) | Web crawler built using Node.js.                                                         |
 | [**asteroids**](https://github.com/code-qtzl/asteroids)                   | Classic Asteroids game built using Python and the Pygame library.                        |
+|                                                                           |
 
 <h2> 🛠 &nbsp;Development Stack</h2>
 
