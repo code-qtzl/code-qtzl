@@ -16,11 +16,16 @@ You can find some of my projects showcased here.
 | [**tenzi**](https://github.com/code-qtzl/tenzi)                           | A fast-paced, strategic dice game built with React.                                      |
 | [**webcrawler-js-http**](https://github.com/code-qtzl/webcrawler-js-http) | Web crawler built using Node.js.                                                         |
 | [**asteroids**](https://github.com/code-qtzl/asteroids)                   | Classic Asteroids game built using Python and the Pygame library.                        |
-|                                                                           |
+|                                                                           |                                                                                          |
 
 <h2> 🛠 &nbsp;Development Stack</h2>
 
 &nbsp;JavaScript&nbsp; &nbsp;TypeScript&nbsp; &nbsp;Angular&nbsp; &nbsp;React&nbsp; &nbsp;Python&nbsp; &nbsp;SQL&nbsp;
+
+<br>
+<h3>😁 Fun Facts:</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&height=20&lines=Can+center+a+div;Optimistic+about+UI;Lives+in+Dark+Mode+;Run+on+Hot+Sauce;Used+to+struggle+exiting+Vim;Can+Google+how+to+exit+Vim;Cherry+Picker)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,8 +37,5 @@ You can find some of my projects showcased here.
 
   <a href="https://www.linkedin.com/in/andres-zepeda/">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://www.mavenandy.com/">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=wordpress&logoColor=fff" />
   </a>
 </div>
