@@ -25,7 +25,7 @@ You can find some of my projects showcased here.
 <br>
 <h3>😁 Fun Facts:</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&height=20&lines=Can+center+a+div;Optimistic+about+UI;Lives+in+Dark+Mode+;Run+on+Hot+Sauce;Used+to+struggle+exiting+Vim;Can+Google+how+to+exit+Vim;Cherry+Picker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&height=20&lines=Can+center+a+div;Optimistic+about+UI;Lives+in+Dark+Mode+;Runs+on+Hot+Sauce;Used+to+struggle+exiting+Vim;Can+Google+how+to+exit+Vim;Cherry+Picker)](https://git.io/typing-svg)
 
 </div>
 
