@@ -10,6 +10,13 @@ Hi there! 👋 I'm Andres Zepeda, a Full-Stack Developer passionate about buildi
 
 You can find some of my projects showcased here.
 
+|                                                                           |                                                                                          |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [**Country-Insights**](https://github.com/code-qtzl/Country-Insights)     | A React web app for searching country information and weather, with customizable themes. |
+| [**tenzi**](https://github.com/code-qtzl/tenzi)                           | A fast-paced, strategic dice game built with React.                                      |
+| [**webcrawler-js-http**](https://github.com/code-qtzl/webcrawler-js-http) | Web crawler built using Node.js.                                                         |
+| [**asteroids**](https://github.com/code-qtzl/asteroids)                   | Classic Asteroids game built using Python and the Pygame library.                        |
+
 <h2> 🛠 &nbsp;Development Stack</h2>
 
 &nbsp;JavaScript&nbsp; &nbsp;TypeScript&nbsp; &nbsp;Angular&nbsp; &nbsp;React&nbsp; &nbsp;Python&nbsp; &nbsp;SQL&nbsp;
