@@ -1,14 +1,77 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&center=true&vCenter=true&width=435&lines=Welcome!+%F0%9F%91%8B+;I'm+Andres+Zepeda;Full+Stack+Developer" alt="Typing SVG" /></a>
+```yaml
+name: Andres Zepeda
+Title: Full Stack Developer
+hobbies: Rock/Alpine Climbing, Hiking, Traveling, Coffee Shop Enthusiast
+```
 
-<h2>
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-About Me
-</h2>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Skills</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Languages</td>
+      <td>
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript" />
+        <img alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=python" />
+        <img alt="PHP" src="https://img.shields.io/badge/-PHP-000?&logo=php" />
+      </td>
+    </tr>
+    <tr>
+      <td>Front-End</td>
+      <td>
+        <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
+        <img alt="NextJS" src="https://img.shields.io/badge/-Angular-000?&logo=angular" />
+        <img alt="Vue" src="https://img.shields.io/badge/-Vercel-000?logo=vercel" />
+        <img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5" />
+        <img alt="CSS" src="https://img.shields.io/badge/-CSS-000?logo=css3" />
+        <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-000?logo=styled-components" />
+        <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-000?logo=tailwindcss" />
+      </td>
+    </tr>
+    <tr>
+      <td>Back-End</td>
+      <td>
+        <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices" />
+        <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-000?&logo=salesforce" />
+        <img alt="Express" src="https://img.shields.io/badge/-Express-000?logo=express" />
+        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-000?logo=graphql" />
+      </td>
+    </tr>
+    <tr>
+      <td>Testing</td>
+      <td>
+        <img alt="Jest" src="https://img.shields.io/badge/-Jest-000?logo=jest" />
+        <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-000?logo=cypress" />
+        <img alt="Jmeter" src="https://img.shields.io/badge/-JMeter-000?logo=apache&jmeter" />
+      </td>
+    </tr>
+    <tr>
+      <td>Data Control</td>
+      <td>
+        <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?logo=sql" />
+        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?logo=mysql" />
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql" />
+        <img alt="SOQL" src="https://img.shields.io/badge/-SOQL-000?logo=salesforce" />
+        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb" />
+      </td>
+    </tr>
+    <tr>
+      <td>Visualization</td>
+      <td>
+        <img alt="Figma" src="https://img.shields.io/badge/-Figma-000?logo=figma" />
+        <img alt="Adobe" src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-000?logo=adobe" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Hi there! 👋 I'm Andres Zepeda, a Full-Stack Developer passionate about building robust and user-friendly web applications. I specialize in creating sustainable and maintainable solutions using a variety of technologies.
-
-You can find some of my projects showcased here.
+<br>
+<h3>🛠️ Projects:</h3>
 
 |                                                                           |                                                                                          |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -18,18 +81,13 @@ You can find some of my projects showcased here.
 | [**asteroids**](https://github.com/code-qtzl/asteroids)                   | Classic Asteroids game built using Python and the Pygame library.                        |
 |                                                                           |                                                                                          |
 
-<h2> 🛠 &nbsp;Development Stack</h2>
-
-&nbsp;JavaScript&nbsp; &nbsp;TypeScript&nbsp; &nbsp;Angular&nbsp; &nbsp;React&nbsp; &nbsp;Python&nbsp; &nbsp;SQL&nbsp;
-
 <br>
+
+<div align="center">
 <h3>😁 Fun Facts:</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&height=20&lines=Can+center+a+div;Optimistic+about+UI;Lives+in+Dark+Mode+;Runs+on+Hot+Sauce;Used+to+struggle+exiting+Vim;Can+Google+how+to+exit+Vim;Bug+Crusher;Web+Sanitation+Engineer)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
   <h2>
     🤝  
     Connect With Me
