@@ -1,6 +1,6 @@
 ```yaml
 name: Andres Zepeda
-Title: Full Stack Developer
+title: Full Stack Developer
 hobbies: Rock/Alpine Climbing, Hiking, Traveling, Coffee Shop Enthusiast
 ```
 
