@@ -4,6 +4,7 @@ Title: Full Stack Developer
 hobbies: Rock/Alpine Climbing, Hiking, Traveling, Coffee Shop Enthusiast
 ```
 
+<br>
 <table align="center">
   <thead>
     <tr>
