@@ -74,13 +74,32 @@ hobbies: Rock/Alpine Climbing, Hiking, Traveling, Coffee Shop Enthusiast
 <br>
 <h3>🛠️ Projects:</h3>
 
-|                                                                           |                                                                                          |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [**Country-Insights**](https://github.com/code-qtzl/Country-Insights)     | A React web app for searching country information and weather, with customizable themes. |
-| [**tenzi**](https://github.com/code-qtzl/tenzi)                           | A fast-paced, strategic dice game built with React.                                      |
-| [**webcrawler-js-http**](https://github.com/code-qtzl/webcrawler-js-http) | Web crawler built using Node.js.                                                         |
-| [**asteroids**](https://github.com/code-qtzl/asteroids)                   | Classic Asteroids game built using Python and the Pygame library.                        |
-|                                                                           |                                                                                          |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/code-qtzl/Country-Insights">Country-Insights</a></td>
+      <td>A React web app for searching country information and weather, with customizable themes.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/code-qtzl/tenzi">tenzi</a></td>
+      <td>A fast-paced, strategic dice game built with React.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/code-qtzl/webcrawler-js-http">webcrawler-js-http</a></td>
+      <td>Web crawler built using Node.js.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/code-qtzl/asteroids">asteroids</a></td>
+      <td>Classic Asteroids game built using Python and the Pygame library.</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
