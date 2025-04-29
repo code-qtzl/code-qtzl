@@ -20,6 +20,7 @@ hobbies: Coffee Shop Enthusiast, Rock Climbing, Hiking, Traveling
         <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript" />
         <img alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=python" />
         <img alt="PHP" src="https://img.shields.io/badge/-PHP-000?&logo=php" />
+        <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?logo=sql" />
       </td>
     </tr>
     <tr>
@@ -54,10 +55,8 @@ hobbies: Coffee Shop Enthusiast, Rock Climbing, Hiking, Traveling
     <tr>
       <td>Data Control</td>
       <td>
-        <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?logo=sql" />
         <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?logo=mysql" />
         <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql" />
-        <img alt="SOQL" src="https://img.shields.io/badge/-SOQL-000?logo=salesforce" />
         <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb" />
       </td>
     </tr>
