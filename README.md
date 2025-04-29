@@ -1,7 +1,7 @@
 ```yaml
 name: Andres Zepeda
 title: Full Stack Developer
-hobbies: Rock Climbing, Hiking, Traveling, Coffee Shop Enthusiast
+hobbies: Coffee Shop Enthusiast, Rock Climbing, Hiking, Traveling
 ```
 
 <br>
@@ -47,7 +47,7 @@ hobbies: Rock Climbing, Hiking, Traveling, Coffee Shop Enthusiast
       <td>Testing</td>
       <td>
         <img alt="Jest" src="https://img.shields.io/badge/-Jest-000?logo=jest" />
-        <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-000?logo=cypress" />
+        <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-000?logo=playwright" />
         <img alt="Jmeter" src="https://img.shields.io/badge/-JMeter-000?logo=apache&jmeter" />
       </td>
     </tr>
