@@ -5,7 +5,7 @@ hobbies: Coffee Shop Enthusiast, Rock Climbing, Hiking, Traveling
 ```
 
 <br>
-<table align="center">
+<table>
   <thead>
     <tr>
       <th>Skills</th>
@@ -70,9 +70,10 @@ hobbies: Coffee Shop Enthusiast, Rock Climbing, Hiking, Traveling
 </table>
 
 <br>
+<div>
 <h3>🛠️ Projects:</h3>
 
-<table align="center">
+<table>
   <thead>
     <tr>
       <th>Name</th>
@@ -98,6 +99,7 @@ hobbies: Coffee Shop Enthusiast, Rock Climbing, Hiking, Traveling
     </tr>
   </tbody>
 </table>
+</div>
 
 <br>
 
