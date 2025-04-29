@@ -27,8 +27,7 @@ hobbies: Coffee Shop Enthusiast, Rock Climbing, Hiking, Traveling
       <td>Front-End</td>
       <td>
         <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
-        <img alt="NextJS" src="https://img.shields.io/badge/-Angular-000?&logo=angular" />
-        <img alt="Vue" src="https://img.shields.io/badge/-Vercel-000?logo=vercel" />
+        <img alt="Angular" src="https://img.shields.io/badge/-Angular-000?&logo=angular" />
         <img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5" />
         <img alt="CSS" src="https://img.shields.io/badge/-CSS-000?logo=css3" />
         <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-000?logo=styled-components" />
