@@ -86,12 +86,12 @@ hobbies: Coffee Shop Enthusiast, Rock Climbing, Hiking, Traveling
       <td>A React web app for searching country information and weather, with customizable themes.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/code-qtzl/tenzi">tenzi</a></td>
-      <td>A fast-paced, strategic dice game built with React.</td>
+      <td><a href="https://github.com/code-qtzl/artic-catalog">artic-catalog</a></td>
+      <td>A custom integrated AI-tool discover and learn about masterpieces from the Art Institute of Chicago</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/code-qtzl/webcrawler-js-http">webcrawler-js-http</a></td>
-      <td>Web crawler built using Node.js.</td>
+      <td><a href="https://github.com/code-qtzl/tenzi">tenzi</a></td>
+      <td>A fast-paced, strategic dice game built with React.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/code-qtzl/asteroids">asteroids</a></td>
