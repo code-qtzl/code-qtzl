@@ -106,7 +106,7 @@ hobbies: Coffee Shop Enthusiast, Rock Climbing, Hiking, Traveling
 <div align="center">
 <h3>😁 Fun Facts:</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&height=20&lines=Can+center+a+div;Optimistic+about+UI;Lives+in+Dark+Mode+;Runs+on+Hot+Sauce;Used+to+struggle+exiting+Vim;Can+Google+how+to+exit+Vim;Bug+Crusher;Web+Sanitation+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Can+center+a+div;Optimistic+about+UI;Lives+in+Dark+Mode;Runs+on+Hot+Sauce;Used+to+struggle+exiting+Vim;Can+Google+how+to+exit+Vim;Bug+Crusher;Web+Sanitation+Engineer)](https://git.io/typing-svg)
 
   <h2>
     🤝  
