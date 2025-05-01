@@ -87,7 +87,7 @@ hobbies: Coffee Shop Enthusiast, Rock Climbing, Hiking, Traveling
     </tr>
     <tr>
       <td><a href="https://github.com/code-qtzl/artic-catalog">artic-catalog</a></td>
-      <td>A custom AI-powered tool designed to help users discover and learn about the collections at the Art Institute of Chicago</td>
+      <td>A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/code-qtzl/tenzi">tenzi</a></td>
