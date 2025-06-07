@@ -36,7 +36,7 @@ title: Full Stack Developer
       <td>Back-End</td>
       <td>
         <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices" />
-        <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-000?&logo=salesforce" />
+        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb" />
         <img alt="Express" src="https://img.shields.io/badge/-Express-000?logo=express" />
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-000?logo=graphql" />
       </td>
@@ -55,7 +55,6 @@ title: Full Stack Developer
       <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?logo=sql" />
         <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?logo=mysql" />
         <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql" />
-        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb" />
       </td>
     </tr>
     <tr>
@@ -81,12 +80,12 @@ title: Full Stack Developer
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/code-qtzl/Country-Insights">Country-Insights</a></td>
-      <td>A React web app for searching country information and weather, with customizable themes.</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/code-qtzl/artic-catalog">artic-catalog</a></td>
       <td>A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/code-qtzl/Country-Insights">Country-Insights</a></td>
+      <td>A React web app for searching country information and weather, with customizable themes.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/code-qtzl/tenzi">tenzi</a></td>
