@@ -28,7 +28,6 @@ title: Full Stack Developer
         <img alt="Angular" src="https://img.shields.io/badge/-Angular-000?&logo=angular" />
         <img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5" />
         <img alt="CSS" src="https://img.shields.io/badge/-CSS-000?logo=css3" />
-        <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-000?logo=styled-components" />
         <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-000?logo=tailwindcss" />
       </td>
     </tr>
