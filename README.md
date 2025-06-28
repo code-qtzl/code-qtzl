@@ -45,6 +45,7 @@ title: Full Stack Developer
       <td>
         <img alt="Jest" src="https://img.shields.io/badge/-Jest-000?logo=jest" />
         <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-000?logo=playwright" />
+         <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-000?logo=cypress" />
         <img alt="Jmeter" src="https://img.shields.io/badge/-JMeter-000?logo=apache&jmeter" />
       </td>
     </tr>
