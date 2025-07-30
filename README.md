@@ -84,12 +84,12 @@ title: Full Stack Developer
       <td>A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/code-qtzl/Country-Insights">Country-Insights</a></td>
-      <td>A React web app for searching country information and weather, with customizable themes.</td>
+      <td><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a></td>
+      <td>TypeScript-based web scraper packaged as an interactive Command-Line Interface (CLI) for ease of use.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/code-qtzl/tenzi">tenzi</a></td>
-      <td>A fast-paced, strategic dice game built with React.</td>
+      <td><a href="https://github.com/code-qtzl/Country-Insights">Country-Insights</a></td>
+      <td>A React web app for searching country information and weather, with customizable themes.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/code-qtzl/asteroids">asteroids</a></td>
