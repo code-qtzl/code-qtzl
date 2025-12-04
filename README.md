@@ -84,16 +84,40 @@ title: Full Stack Developer
       <td>A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a></td>
-      <td>TypeScript-based web scraper packaged as an interactive Command-Line Interface (CLI) for ease of use.</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/code-qtzl/Country-Insights">Country-Insights</a></td>
-      <td>A React web app for searching country information and weather, with customizable themes.</td>
+      <td>A React web app for searching country information and weather, with dark mode.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/code-qtzl/asteroids">asteroids</a></td>
-      <td>Classic Asteroids game built using Python and the Pygame library.</td>
+      <td><a href="https://github.com/code-qtzl/post-it-board">post-it-board</a></td>
+      <td>Post-it Board application - a simple message board where users can post and view messages, like digital sticky notes.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a></td>
+      <td>Boot.Dev Hackathon Submission (Summer 2025). A TypeScript-based web scraper packaged as an interactive Command-Line Interface (CLI) for ease of use.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br>
+<div>
+<h3>🛠️ OpenSource Contributions:</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><a href="https://github.com/mikechao/artic-mcp">Art Institute of Chicago MCP Server (artic-mcp)</a></td>
+      <td>This server allows AI models to search the Art Institute of Chicago Collection and have art works available as a Resource.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JustAJobApp/jobseeker-analytics">JustAJobApp</a></td>
+      <td>Less Stress for Jobseekers! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.</td>
     </tr>
   </tbody>
 </table>
