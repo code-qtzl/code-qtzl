@@ -7,7 +7,7 @@ title: Full Stack Developer
 <table>
   <thead>
     <tr>
-      <th width='175'>Skills</th>
+      <th width='180'>Skills</th>
       <th>Technologies</th>
     </tr>
   </thead>
@@ -74,7 +74,7 @@ title: Full Stack Developer
 <table>
   <thead>
     <tr>
-      <th width='175'>Name</th>
+      <th width='180'>Name</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -106,7 +106,7 @@ title: Full Stack Developer
 <table>
   <thead>
     <tr>
-      <th width='175'>Name</th>
+      <th width='180'>Name</th>
       <th>Description</th>
     </tr>
   </thead>
