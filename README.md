@@ -91,10 +91,6 @@ title: Full Stack Developer
       <td><a href="https://github.com/code-qtzl/post-it-board">post-it-board</a></td>
       <td>Post-it Board application - a simple message board where users can post and view messages, like digital sticky notes.</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a></td>
-      <td>Boot.Dev Hackathon Submission (Summer 2025). A TypeScript-based web scraper packaged as an interactive Command-Line Interface (CLI) for ease of use.</td>
-    </tr>
   </tbody>
 </table>
 </div>
@@ -111,13 +107,37 @@ title: Full Stack Developer
     </tr>
   </thead>
   <tbody>
-  <tr>
+      <tr>
       <td><a href="https://github.com/mikechao/artic-mcp">Art Institute of Chicago MCP Server (artic-mcp)</a></td>
       <td>This server allows AI models to search the Art Institute of Chicago Collection and have art works available as a Resource.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JustAJobApp/jobseeker-analytics">JustAJobApp</a></td>
       <td>Less Stress for Jobseekers! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br>
+<div>
+<h3>🏆 Hackathons:</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th width='180'>Project</th>
+      <th>Event & Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a></td>
+      <td><strong><a href="https://www.boot.dev/">Boot.Dev Summer Hackathon 2025</a></strong> • Built a TypeScript-based web scraper with interactive CLI in 48 hours.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/code-qtzl/asteroids">Asteroids</a></td>
+      <td><strong><a href="https://builder.aws.com/content/2y6egGcPAGQs8EwtQUM9KAONojz/build-games-challenge-build-classics-with-amazon-q-developer-cli">AWS Build Games Challenge 2025</a></strong> • Rebuilt the classic Asteroids game using Amazon Q Developer CLI before it got deprecated.</td>
     </tr>
   </tbody>
 </table>
