@@ -148,7 +148,7 @@ title: Full Stack Developer
 <div align="center">
 <h3>😁 Fun Facts:</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Can+center+a+div;Optimistic+about+UI;Lives+in+Dark+Mode;Runs+on+Hot+Sauce;Bug+Crusher;Web+Sanitation+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Can+center+a+div;Optimistic+about+UI;Lives+in+Dark+Mode;Runs+on+Hot+Sauce;Bug+Crusher;Web+Sanitation+Engineer;qtzl+%3D+%22Quetzal%22)](https://git.io/typing-svg)
 
   <h2>
     🤝  
