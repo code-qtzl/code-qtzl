@@ -137,7 +137,7 @@ title: Full Stack Developer
     </tr>
     <tr>
       <td><a href="https://github.com/code-qtzl/asteroids">Asteroids</a></td>
-      <td><strong><a href="https://builder.aws.com/content/2y6egGcPAGQs8EwtQUM9KAONojz/build-games-challenge-build-classics-with-amazon-q-developer-cli">AWS Build Games Challenge 2025</a></strong> • Rebuilt the classic Asteroids game using Amazon Q Developer CLI before it got deprecated.</td>
+      <td><strong><a href="https://builder.aws.com/content/2y6egGcPAGQs8EwtQUM9KAONojz/build-games-challenge-build-classics-with-amazon-q-developer-cli">AWS Build Games Challenge 2025</a></strong> • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI before Kiro took over.</td>
     </tr>
   </tbody>
 </table>
