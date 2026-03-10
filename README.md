@@ -69,6 +69,36 @@ title: Full Stack Developer
 
 <br>
 <div>
+<h3>🏆 Hackathons:</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th width='180'>Project</th>
+      <th>Event & Description</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td><a href="https://github.com/code-qtzl/diabetes-log-cli">Diabetes Log CLI</a></td>
+      <td><strong><a href="https://dev.to/code-qtzl/diabetes-log-cli-22pl">GitHub Copilot CLI Challenge 2026</a></strong> • A command-line tool to log and visualize blood sugar and insulin data.
+
+</td>
+    </tr>
+      <tr>
+      <td><a href="https://github.com/code-qtzl/asteroids">Asteroids</a></td>
+      <td><strong><a href="https://builder.aws.com/content/2y6egGcPAGQs8EwtQUM9KAONojz/build-games-challenge-build-classics-with-amazon-q-developer-cli">AWS Build Games Challenge 2025</a></strong> • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a></td>
+      <td><strong><a href="https://www.boot.dev/">Boot.Dev Summer Hackathon 2025</a></strong> • Built a TypeScript-based web scraper with interactive CLI in 48 hours.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br>
+<div>
 <h3>🛠️ Open Source Contributions:</h3>
 
 <table>
@@ -118,31 +148,6 @@ title: Full Stack Developer
   </tbody>
 </table>
 </div>
-
-<br>
-<div>
-<h3>🏆 Hackathons:</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th width='180'>Project</th>
-      <th>Event & Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a></td>
-      <td><strong><a href="https://www.boot.dev/">Boot.Dev Summer Hackathon 2025</a></strong> • Built a TypeScript-based web scraper with interactive CLI in 48 hours.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/code-qtzl/asteroids">Asteroids</a></td>
-      <td><strong><a href="https://builder.aws.com/content/2y6egGcPAGQs8EwtQUM9KAONojz/build-games-challenge-build-classics-with-amazon-q-developer-cli">AWS Build Games Challenge 2025</a></strong> • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI before Kiro took over.</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
 <br>
 
 <div align="center">
