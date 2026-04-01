@@ -79,7 +79,7 @@ title: Full Stack Developer
 <h3>Hackathons:</h3>
  <ul>
   <li><a href="https://github.com/code-qtzl/diabetes-log-cli">Diabetes Log CLI</a> - <strong>2026 GitHub Copilot CLI Challenge</strong> • Command-line tool to log and visualize blood sugar and insulin data.</li>
-  <li><a href="https://github.com/code-qtzl/asteroids">Asteroids</a> - <strong>2025 AWS Hackathon Challenge</strong> • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.</li>
+  <li><a href="https://github.com/code-qtzl/asteroids">Asteroids</a> - <strong>2025 AWS Game Challenge</strong> • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.</li>
   <li><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a> - <strong>2025 Boot.Dev Summer Hackathon</strong> • Built a TypeScript-based web scraper with interactive CLI.</li>
   </ul>
 
