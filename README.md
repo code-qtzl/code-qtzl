@@ -68,92 +68,41 @@ title: Full Stack Developer
 </table>
 
 <br>
-<div>
-<h3>🏆 Hackathons:</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th width='180'>Project</th>
-      <th>Event & Description</th>
-    </tr>
-  </thead>
-  <tbody>
-      <tr>
-      <td><a href="https://github.com/code-qtzl/diabetes-log-cli">Diabetes Log CLI</a></td>
-      <td><strong><a href="https://dev.to/code-qtzl/diabetes-log-cli-22pl">GitHub Copilot CLI Challenge 2026</a></strong> • A command-line tool to log and visualize blood sugar and insulin data.
-
-</td>
-    </tr>
-      <tr>
-      <td><a href="https://github.com/code-qtzl/asteroids">Asteroids</a></td>
-      <td><strong><a href="https://builder.aws.com/content/2y6egGcPAGQs8EwtQUM9KAONojz/build-games-challenge-build-classics-with-amazon-q-developer-cli">AWS Build Games Challenge 2025</a></strong> • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a></td>
-      <td><strong><a href="https://www.boot.dev/">Boot.Dev Summer Hackathon 2025</a></strong> • Built a TypeScript-based web scraper with interactive CLI in 48 hours.</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<br>
-<div>
-<h3>🛠️ Open Source Contributions:</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th width='180'>Name</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-      <tr>
-      <td><a href="https://github.com/mikechao/artic-mcp">artic-mcp</a></td>
-      <td>This server allows AI models to search the <b>Art Institute of Chicago Collection</b> and have art works available as a Resource.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JustAJobApp/jobseeker-analytics">JustAJobApp</a></td>
-      <td>Less Stress for Jobseekers! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<br>
-<div>
-<h3>🛠️ Projects:</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th width='180'>Name</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/code-qtzl/artic-catalog">artic-catalog</a></td>
-      <td>A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/code-qtzl/Country-Insights">Country-Insights</a></td>
-      <td>A React web app for searching country information and weather, with dark mode.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/code-qtzl/post-it-board">post-it-board</a></td>
-      <td>Post-it Board application - a simple message board where users can post and view messages, like digital sticky notes.</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<h3>Open-Source Contributions:</h3>
+ <ul>
+  <li><a href="https://github.com/mikechao/artic-mcp">Artic-MCP</a> - This server allows AI models to search the <b>Art Institute of Chicago Collection</b> and have art works available as a Resource.</li>
+  <li><a href="https://github.com/coder/coder">Coder</a> - Set up development environments in their public or private cloud infrastructure.</li>
+  <li><a href="https://github.com/JustAJobApp/jobseeker-analytics">JustAJobApp</a> - Less Stress for Jobseekers! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.</li>
+  </ul>
 <br>
 
-<div align="center">
-<h3>😁 Fun Facts:</h3>
+<h3>Hackathons:</h3>
+ <ul>
+  <li><a href="https://github.com/code-qtzl/diabetes-log-cli">Diabetes Log CLI</a> - <strong>GitHub Copilot CLI Challenge 2026</strong> • A command-line tool to log and visualize blood sugar and insulin data.</li>
+  <li><a href="https://github.com/code-qtzl/asteroids">Asteroids</a> - <strong>AWS Build Games Challenge 2025</strong> • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.</li>
+  <li><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a> - <strong>Boot.Dev Summer Hackathon 2025</strong> • Built a TypeScript-based web scraper with interactive CLI in 48 hours.</li>
+  </ul>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Can+center+a+div;Optimistic+about+UI;Lives+in+Dark+Mode;Runs+on+Hot+Sauce;Bug+Crusher;Web+Sanitation+Engineer;var+qtzl+%3D+Quetzal)](https://git.io/typing-svg)
+<br>
+
+<h3>Projects:</h3>
+ <ul>
+  <li><a href="https://github.com/code-qtzl/artic-catalog">Artic-Catalog</a> - A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.</li>
+  <li><a href="https://github.com/code-qtzl/Country-Insights">Country-Insights</a> - A React web app for searching country information and weather, with dark mode.</li>
+  <li><a href="https://github.com/code-qtzl/post-it-board">Post-it-Board</a> - A simple message board where users can post and view messages, like digital sticky notes.</li>
+  </ul>
+
+<br>
+
+<h3>Fun Facts:</h3>
+ <ul>
+  <li>Optimistic about UI</li>
+  <li>Lives in Dark Mode</li>
+  <li>Runs on Hot Sauce</li>
+  <li>qtzl = Quetzal</li>
+  </ul>
+
+<br>
 
   <h2>
     🤝  
