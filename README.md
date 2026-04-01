@@ -70,17 +70,17 @@ title: Full Stack Developer
 <br>
 <h3>Open-Source Contributions:</h3>
  <ul>
-  <li><a href="https://github.com/mikechao/artic-mcp">Artic-MCP</a> - This server allows AI models to search the <b>Art Institute of Chicago Collection</b> and have art works available as a Resource.</li>
+  <li><a href="https://github.com/mikechao/artic-mcp">Artic-MCP</a> - This server allows AI models to search the <strong>Art Institute of Chicago Collection</strong> and have artworks as a Resource.</li>
   <li><a href="https://github.com/coder/coder">Coder</a> - Set up development environments in their public or private cloud infrastructure.</li>
-  <li><a href="https://github.com/JustAJobApp/jobseeker-analytics">JustAJobApp</a> - Less Stress for Jobseekers! Connect your Gmail inbox and automatically see your entire job search in a dashboard, no copy-pasting required.</li>
+  <li><a href="https://github.com/JustAJobApp/jobseeker-analytics">JustAJobApp</a> - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.</li>
   </ul>
 <br>
 
 <h3>Hackathons:</h3>
  <ul>
-  <li><a href="https://github.com/code-qtzl/diabetes-log-cli">Diabetes Log CLI</a> - <strong>GitHub Copilot CLI Challenge 2026</strong> • A command-line tool to log and visualize blood sugar and insulin data.</li>
-  <li><a href="https://github.com/code-qtzl/asteroids">Asteroids</a> - <strong>AWS Build Games Challenge 2025</strong> • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.</li>
-  <li><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a> - <strong>Boot.Dev Summer Hackathon 2025</strong> • Built a TypeScript-based web scraper with interactive CLI in 48 hours.</li>
+  <li><a href="https://github.com/code-qtzl/diabetes-log-cli">Diabetes Log CLI</a> - <strong>2026 GitHub Copilot CLI Challenge</strong> • Command-line tool to log and visualize blood sugar and insulin data.</li>
+  <li><a href="https://github.com/code-qtzl/asteroids">Asteroids</a> - <strong>2025 AWS Hackathon Challenge</strong> • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.</li>
+  <li><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a> - <strong>2025 Boot.Dev Summer Hackathon</strong> • Built a TypeScript-based web scraper with interactive CLI.</li>
   </ul>
 
 <br>
