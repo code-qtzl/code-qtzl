@@ -67,49 +67,35 @@ title: Full Stack Developer
   </tbody>
 </table>
 
-<br>
-<h3>Open-Source Contributions:</h3>
- <ul>
-  <li><a href="https://github.com/mikechao/artic-mcp">Artic-MCP</a> - This server allows AI models to search the <strong>Art Institute of Chicago Collection</strong> and have artworks as a Resource.</li>
-  <li><a href="https://github.com/coder/coder">Coder</a> - Set up development environments in their public or private cloud infrastructure.</li>
-  <li><a href="https://github.com/JustAJobApp/jobseeker-analytics">JustAJobApp</a> - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.</li>
-  </ul>
-<br>
+## Open-Source Contributions
 
-<h3>Hackathons:</h3>
- <ul>
-  <li><a href="https://github.com/code-qtzl/diabetes-log-cli">Diabetes Log CLI</a> - <strong>2026 GitHub Copilot CLI Challenge</strong> • Command-line tool to log and visualize blood sugar and insulin data.</li>
-  <li><a href="https://github.com/code-qtzl/asteroids">Asteroids</a> - <strong>2025 AWS Game Challenge</strong> • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.</li>
-  <li><a href="https://github.com/code-qtzl/wing-scrape">WingScrape CLI</a> - <strong>2025 Boot.Dev Summer Hackathon</strong> • Built a TypeScript-based web scraper with interactive CLI.</li>
-  </ul>
+- [Artic-MCP](https://github.com/mikechao/artic-mcp) - This server allows AI models to search the **Art Institute of Chicago Collection** and have artworks as a Resource.
+- [Coder](https://github.com/coder/coder) - Set up development environments in their public or private cloud infrastructure.
+- [JustAJobApp](https://github.com/JustAJobApp/jobseeker-analytics) - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.
 
-<br>
+## Hackathons
 
-<h3>Projects:</h3>
- <ul>
-  <li><a href="https://github.com/code-qtzl/artic-catalog">Artic-Catalog</a> - A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.</li>
-  <li><a href="https://github.com/code-qtzl/Country-Insights">Country-Insights</a> - A React web app for searching country information and weather, with dark mode.</li>
-  <li><a href="https://github.com/code-qtzl/post-it-board">Post-it-Board</a> - A simple message board where users can post and view messages, like digital sticky notes.</li>
-  </ul>
+- [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **2026 GitHub Copilot CLI Challenge** • Command-line tool to log and visualize blood sugar and insulin data.
+- [Asteroids](https://github.com/code-qtzl/asteroids) - **2025 AWS Game Challenge** • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.
+- [WingScrape CLI](https://github.com/code-qtzl/wing-scrape) - **2025 Boot.Dev Summer Hackathon** • Built a TypeScript-based web scraper with interactive CLI.
 
-<br>
+## Projects
 
-<h3>Fun Facts:</h3>
- <ul>
-  <li>Optimistic about UI</li>
-  <li>Lives in Dark Mode</li>
-  <li>Runs on Hot Sauce</li>
-  <li>qtzl = Quetzal</li>
-  </ul>
+- [Artic-Catalog](https://github.com/code-qtzl/artic-catalog) - A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.
+- [Country-Insights](https://github.com/code-qtzl/Country-Insights) - A React web app for searching country information and weather, with dark mode.
+- [Post-it-Board](https://github.com/code-qtzl/post-it-board) - A simple message board where users can post and view messages, like digital sticky notes.
 
-<br>
+## Blogging
 
-  <h2>
-    🤝  
-    Connect With Me
-  </h2>
+- [What is qtzl?](https://medium.com/@a.a.zepeda003/hello-1bbad29878ac)
+- [Ascii-Motion art](https://medium.com/@a.a.zepeda003/using-ascii-motion-to-animate-my-name-on-my-portfolio-9ad6b5fadc31)
 
-  <a href="https://www.linkedin.com/in/andres-zepeda/">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-</div>
+## Fun Facts
+
+- Optimistic about UI
+- Lives in Dark Mode
+- Runs on Hot Sauce
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/andres-zepeda/)
