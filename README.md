@@ -69,7 +69,7 @@ title: Full Stack Developer
 
 ## Open-Source Contributions
 
-- [Artic-MCP](https://github.com/mikechao/artic-mcp) - This server allows AI models to search the **Art Institute of Chicago Collection** and have artworks as a Resource.
+- [Artic-MCP](https://github.com/mikechao/artic-mcp) - This server allows AI models to search the **Art Institute of Chicago Collection** and have artworks as a resource.
 - [Coder](https://github.com/coder/coder) - Set up development environments in their public or private cloud infrastructure.
 - [JustAJobApp](https://github.com/JustAJobApp/jobseeker-analytics) - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.
 
