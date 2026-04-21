@@ -77,13 +77,18 @@ title: Full Stack Developer
 
 - [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **2026 GitHub Copilot CLI Challenge** • Command-line tool to log and visualize blood sugar and insulin data.
 - [Asteroids](https://github.com/code-qtzl/asteroids) - **2025 AWS Game Challenge** • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.
-- [WingScrape CLI](https://github.com/code-qtzl/wing-scrape) - **2025 Boot.Dev Summer Hackathon** • Built a TypeScript-based web scraper with interactive CLI.
+- [WingScrape CLI](https://github.com/code-qtzl/wing-scrape) - **2025 Boot.Dev Summer Hackathon** • Explore the world of [HotOnes](https://www.youtube.com/@FirstWeFeast/videos) in your terminal.
 
 ## Projects
 
 - [Artic-Catalog](https://github.com/code-qtzl/artic-catalog) - A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.
 - [Country-Insights](https://github.com/code-qtzl/Country-Insights) - A React web app for searching country information and weather, with dark mode.
 - [Post-it-Board](https://github.com/code-qtzl/post-it-board) - A simple message board where users can post and view messages, like digital sticky notes.
+
+## Workshops
+
+- [El FlappyBird](https://github.com/code-qtzl/El-FlappyBird) - **2026 AWS Community Tour** • Hands-on workshop on agentic AI development.
+- [Weather App](https://github.com/code-qtzl/github-copilot-get-started) - **2026 GitHub Copilot Dev Days** • Hands-on workshop using Open-Meteo API
 
 ## Blog Posts
 
