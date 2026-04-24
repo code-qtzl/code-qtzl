@@ -82,7 +82,7 @@ title: Full Stack Developer
 ## Projects
 
 - [Artic-Catalog](https://github.com/code-qtzl/artic-catalog) - A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.
-- [Country-Insights](https://github.com/code-qtzl/Country-Insights) - A React web app for querying countries and territories data.
+- [Country-Insights](https://github.com/code-qtzl/Country-Insights) - A React web app for querying countries and territory data.
 - [Post-it-Board](https://github.com/code-qtzl/post-it-board) - A message board where you can post and view messages, like digital sticky notes.
 
 ## Workshops
