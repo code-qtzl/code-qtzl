@@ -75,15 +75,15 @@ title: Full Stack Developer
 
 ## Hackathons
 
-- [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **2026 GitHub Copilot CLI Challenge** • Command-line tool to log and visualize blood sugar and insulin data.
+- [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **2026 GitHub Copilot CLI Challenge** • A tool to log and visualize blood sugar and insulin data.
 - [Asteroids](https://github.com/code-qtzl/asteroids) - **2025 AWS Game Challenge** • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.
 - [WingScrape CLI](https://github.com/code-qtzl/wing-scrape) - **2025 Boot.Dev Summer Hackathon** • Explore the world of [HotOnes](https://www.youtube.com/@FirstWeFeast/videos) in your terminal.
 
 ## Projects
 
 - [Artic-Catalog](https://github.com/code-qtzl/artic-catalog) - A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.
-- [Country-Insights](https://github.com/code-qtzl/Country-Insights) - A React web app for searching country information and weather, with dark mode.
-- [Post-it-Board](https://github.com/code-qtzl/post-it-board) - A simple message board where users can post and view messages, like digital sticky notes.
+- [Country-Insights](https://github.com/code-qtzl/Country-Insights) - A React web app for querying countries and territories data.
+- [Post-it-Board](https://github.com/code-qtzl/post-it-board) - A message board where you can post and view messages, like digital sticky notes.
 
 ## Workshops
 
