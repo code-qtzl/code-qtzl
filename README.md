@@ -22,7 +22,7 @@ title: Full Stack Developer
       </td>
     </tr>
     <tr>
-      <td>Front-End</td>
+      <td>Frontend</td>
       <td>
         <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
         <img alt="Angular" src="https://img.shields.io/badge/-Angular-000?&logo=angular" />
@@ -32,7 +32,7 @@ title: Full Stack Developer
       </td>
     </tr>
     <tr>
-      <td>Back-End</td>
+      <td>Backend</td>
       <td>
         <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices" />
         <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb" />
