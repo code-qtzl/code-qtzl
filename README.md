@@ -1,6 +1,6 @@
 ```yaml
 name: Andres Zepeda
-title: Full Stack Developer & Web Designer
+title: Full Stack Developer
 ```
 
 <br>
@@ -70,8 +70,11 @@ title: Full Stack Developer & Web Designer
 ## Open-Source Contributions
 
 - [Artic-MCP](https://github.com/mikechao/artic-mcp) - An **Art Institute of Chicago MCP server** for searching and interacting with museum artworks via AI.
+    - PR: [#5](https://github.com/mikechao/artic-mcp/pull/5)
 - [Coder](https://github.com/coder/coder) - Set up development environments in your public or private cloud infrastructure.
+    - PR: [#23374](https://github.com/coder/coder/pull/23374), [#24057](https://github.com/coder/coder/pull/24057), [#24536](https://github.com/coder/coder/pull/24536)
 - [JustAJobApp](https://github.com/JustAJobApp/jobseeker-analytics) - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.
+    - PR: [#677](https://github.com/JustAJobApp/jobseeker-analytics/pull/677), [#734](https://github.com/JustAJobApp/jobseeker-analytics/pull/734)
 
 ## Hackathons
 
@@ -94,7 +97,7 @@ title: Full Stack Developer & Web Designer
 ## Blog Posts
 
 - [What is qtzl?](https://medium.com/@a.a.zepeda003/hello-1bbad29878ac) - An introduction to “Code-Quetzal” and the meaning behind the name.
-- [Ascii Motion Application](https://medium.com/@a.a.zepeda003/using-ascii-motion-to-animate-my-name-on-my-portfolio-9ad6b5fadc31) - A walkthrough of using ASCII Motion to animate my name for my portfolio site.
+- [Ascii Motion Application](https://medium.com/@a.a.zepeda003/using-ascii-motion-to-animate-my-name-on-my-portfolio-9ad6b5fadc31) - A walkthrough of using [ASCII Motion](https://ascii-motion.app/) to animate my name for my portfolio site.
 
 ## Fun Facts
 
