@@ -1,6 +1,6 @@
 ```yaml
 name: Andres Zepeda
-title: Full Stack Developer
+title: Full Stack Developer & Web Designer
 ```
 
 <br>
@@ -75,7 +75,7 @@ title: Full Stack Developer
 
 ## Hackathons
 
-- [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **2026 GitHub Copilot CLI C◊hallenge** • A tool to log and visualize blood sugar and insulin data.
+- [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **2026 GitHub Copilot CLI Challenge** • A tool to log and visualize blood sugar and insulin data.
 - [Asteroids](https://github.com/code-qtzl/asteroids) - **2025 AWS Game Challenge** • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.
 - [WingScrape CLI](https://github.com/code-qtzl/wing-scrape) - **2025 Boot.Dev Summer Hackathon** • Explore the world of [HotOnes](https://www.youtube.com/@FirstWeFeast/videos) in your terminal.
 
