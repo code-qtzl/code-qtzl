@@ -69,6 +69,7 @@ title: Full Stack Developer
 
 ## Open-Source Contributions
 
+- [Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A web application for creating and animating ASCII art.
 - [Artic-MCP](https://github.com/mikechao/artic-mcp) - An **Art Institute of Chicago MCP server** for searching and interacting with museum artworks via AI.
     - PR: [#5](https://github.com/mikechao/artic-mcp/pull/5)
 - [Coder](https://github.com/coder/coder) - Set up development environments in your public or private cloud infrastructure.
@@ -97,7 +98,7 @@ title: Full Stack Developer
 ## Blog Posts
 
 - [What is qtzl?](https://medium.com/@a.a.zepeda003/hello-1bbad29878ac) - An introduction to “Code-Quetzal” and the meaning behind the name.
-- [Ascii Motion Application](https://medium.com/@a.a.zepeda003/using-ascii-motion-to-animate-my-name-on-my-portfolio-9ad6b5fadc31) - A walkthrough of using [ASCII Motion](https://ascii-motion.app/) to animate my name for my portfolio site.
+- [Ascii Motion Application](https://medium.com/@a.a.zepeda003/using-ascii-motion-to-animate-my-name-on-my-portfolio-9ad6b5fadc31) - A walkthrough of using [ASCII-Motion](https://ascii-motion.app/) to animate my name for my portfolio site.
 
 ## Fun Facts
 
