@@ -69,9 +69,9 @@ title: Full Stack Developer
 
 ## Open-Source Contributions
 
-- [Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A web application for creating and animating ASCII art.
 - [Artic-MCP](https://github.com/mikechao/artic-mcp) - An **Art Institute of Chicago MCP server** for searching and interacting with museum artworks via AI.
     - PR: [#5](https://github.com/mikechao/artic-mcp/pull/5)
+- [Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A web application for creating and animating ASCII art.
 - [Coder](https://github.com/coder/coder) - Set up development environments in your public or private cloud infrastructure.
     - PR: [#23374](https://github.com/coder/coder/pull/23374), [#24057](https://github.com/coder/coder/pull/24057), [#24536](https://github.com/coder/coder/pull/24536)
 - [JustAJobApp](https://github.com/JustAJobApp/jobseeker-analytics) - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.
