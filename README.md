@@ -69,7 +69,7 @@ title: Full Stack Developer
 
 ## Open-Source Contributions
 
-- [Artic-MCP](https://github.com/mikechao/artic-mcp) - An **Art Institute of Chicago MCP server** for searching and interacting with museum artworks via AI.
+- [Artic-MCP](https://github.com/mikechao/artic-mcp) - A MCP server for searching and interacting with museum artworks via AI, used with the Claude Desktop App.
     - PR: [#5](https://github.com/mikechao/artic-mcp/pull/5)
 - [Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A web application for creating and animating ASCII art.
 - [Coder](https://github.com/coder/coder) - Set up development environments in your public or private cloud infrastructure.
