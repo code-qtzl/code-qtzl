@@ -70,15 +70,13 @@ title: Full Stack Developer
 ## Open-Source Contributions
 
 - [Artic-MCP](https://github.com/mikechao/artic-mcp) - A MCP server for searching and interacting with museum artworks via AI, used with the Claude Desktop App.
-    - PR: [#5](https://github.com/mikechao/artic-mcp/pull/5)
 - [Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A web application for creating and animating ASCII art.
 - [Coder](https://github.com/coder/coder) - Set up development environments in your public or private cloud infrastructure.
-    - PR: [#23374](https://github.com/coder/coder/pull/23374), [#24057](https://github.com/coder/coder/pull/24057), [#24536](https://github.com/coder/coder/pull/24536)
 - [JustAJobApp](https://github.com/JustAJobApp/jobseeker-analytics) - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.
-    - PR: [#677](https://github.com/JustAJobApp/jobseeker-analytics/pull/677), [#734](https://github.com/JustAJobApp/jobseeker-analytics/pull/734)
 
 ## Hackathons
 
+- [TurboFeed-LowVol](https://github.com/code-qtzl/TurboFeed-LowVol) - **2026 AITX Codex Community Hackathon** • From one ad concept, to infinite platform-ready variations.
 - [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **2026 GitHub Copilot CLI Challenge** • A tool to log and visualize blood sugar and insulin data.
 - [Asteroids](https://github.com/code-qtzl/asteroids) - **2025 AWS Game Challenge** • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.
 - [WingScrape CLI](https://github.com/code-qtzl/wing-scrape) - **2025 Boot.Dev Summer Hackathon** • Explore the world of [HotOnes](https://www.youtube.com/@FirstWeFeast/videos) in your terminal.
