@@ -75,7 +75,7 @@ title: Full Stack Developer
 - [Databricks](https://github.com/databricks/app-templates) - A pre-built starter kits and boilerplate templates designed to accelerate Databricks App development.
 - [JustAJobApp](https://github.com/JustAJobApp/jobseeker-analytics) - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.
 
-## Hackathons
+## Hackathons/Challenges
 
 - [TurboFeed-LowVol](https://github.com/code-qtzl/TurboFeed-LowVol) - **2026 AITX Community x Codex Hackathon** • From one ad concept, to infinite platform-ready variations.
 - [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **2026 GitHub Copilot CLI Challenge** • A tool to log and visualize blood sugar and insulin data.
