@@ -87,7 +87,7 @@ title: Full Stack Developer
 - [Artic-Catalog](https://github.com/code-qtzl/artic-catalog) - A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.
 - [Country-Insights](https://github.com/code-qtzl/Country-Insights) - A React web app for querying countries and territory data.
 - [Post-it-Board](https://github.com/code-qtzl/post-it-board) - A message board where you can post and view messages, like digital sticky notes.
-- [Terminal-Task-Tracker](https://github.com/code-qtzl/Terminal-Task-Tracker) - A to-do list that lives in your terminal.
+- [Terminal-Task-Tracker](https://github.com/code-qtzl/Terminal-Task-Tracker) - A to-do list that lives in your terminal. Featured on [TinyToolTown](https://www.tinytooltown.com/)
 
 ## Workshops
 
