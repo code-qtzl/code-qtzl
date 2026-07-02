@@ -74,6 +74,7 @@ title: Full Stack Developer
 - [Coder](https://github.com/coder/coder) - Set up development environments in your public or private cloud infrastructure.
 - [Databricks](https://github.com/databricks/app-templates) - A pre-built starter kits and boilerplate templates designed to accelerate Databricks App development.
 - [JustAJobApp](https://github.com/JustAJobApp/jobseeker-analytics) - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.
+- [Mintlify](https://github.com/mintlify/components) - A React component library powering Mintlify's AI-native developer documentation platform.
 
 ## Hackathons/Challenges
 
