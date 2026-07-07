@@ -1,6 +1,6 @@
 ```yaml
 name: Andres Zepeda
-title: Full Stack Developer
+title: Front End Software Engineer
 ```
 
 <br>
