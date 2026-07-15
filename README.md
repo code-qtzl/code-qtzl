@@ -4,68 +4,6 @@ title: Front End Software Engineer
 ```
 
 <br>
-<table>
-  <thead>
-    <tr>
-      <th width='180'>Skills</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Languages</td>
-      <td>
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" />
-        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript" />
-        <img alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=python" />
-        <img alt="PHP" src="https://img.shields.io/badge/-PHP-000?&logo=php" />
-      </td>
-    </tr>
-    <tr>
-      <td>Frontend</td>
-      <td>
-        <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
-        <img alt="Angular" src="https://img.shields.io/badge/-Angular-000?&logo=angular" />
-        <img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5" />
-        <img alt="CSS" src="https://img.shields.io/badge/-CSS-000?logo=css3" />
-        <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-000?logo=tailwindcss" />
-      </td>
-    </tr>
-    <tr>
-      <td>Backend</td>
-      <td>
-        <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices" />
-        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb" />
-        <img alt="Express" src="https://img.shields.io/badge/-Express-000?logo=express" />
-        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-000?logo=graphql" />
-      </td>
-    </tr>
-    <tr>
-      <td>Testing</td>
-      <td>
-        <img alt="Jest" src="https://img.shields.io/badge/-Jest-000?logo=jest" />
-        <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-000?logo=playwright" />
-         <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-000?logo=cypress" />
-        <img alt="Jmeter" src="https://img.shields.io/badge/-JMeter-000?logo=apache&jmeter" />
-      </td>
-    </tr>
-    <tr>
-      <td>Data Control</td>
-      <td>
-      <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?logo=sql" />
-        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?logo=mysql" />
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql" />
-      </td>
-    </tr>
-    <tr>
-      <td>Visualization</td>
-      <td>
-        <img alt="Figma" src="https://img.shields.io/badge/-Figma-000?logo=figma" />
-        <img alt="Adobe" src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-000?logo=adobe" />
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ## Open-Source Contributions
 
@@ -87,7 +25,6 @@ title: Front End Software Engineer
 
 - [Artic-Catalog](https://github.com/code-qtzl/artic-catalog) - A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.
 - [Country-Insights](https://github.com/code-qtzl/Country-Insights) - A React web app for querying countries and territory data. [Demo](https://code-qtzl.github.io/Country-Insights/)
-- [Post-it-Board](https://github.com/code-qtzl/post-it-board) - A message board where you can post and view messages, like digital sticky notes.
 - [Terminal-Task-Tracker](https://github.com/code-qtzl/Terminal-Task-Tracker) - A to-do list that lives in your terminal.
 
 ## Workshops
