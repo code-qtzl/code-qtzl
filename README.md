@@ -3,8 +3,6 @@ name: Andres Zepeda
 title: Front End Software Engineer
 ```
 
-<br>
-
 ## Open-Source Contributions
 
 - [Artic-MCP](https://github.com/mikechao/artic-mcp) - A MCP server for searching and interacting with museum artworks via AI, used with the Claude Desktop App.
@@ -41,7 +39,7 @@ title: Front End Software Engineer
 
 - Optimistic about UI
 - Lives in Dark Mode
-- Runs on Hot Sauce
+- Runs on Hot Sauce and Tacos
 
 ## 🤝 Connect With Me
 
