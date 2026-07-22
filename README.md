@@ -23,7 +23,7 @@ title: Front End Software Engineer
 
 - [Artic-Catalog](https://github.com/code-qtzl/artic-catalog) - A web app featuring a custom AI assistant, powered by data from the Art Institute of Chicago.
 - [Country-Insights](https://github.com/code-qtzl/Country-Insights) - A React web app for querying countries and territory data. [Demo](https://code-qtzl.github.io/Country-Insights/)
-- [Terminal-Task-Tracker](https://github.com/code-qtzl/Terminal-Task-Tracker) - A to-do list that lives in your terminal.
+- [Terminal-Task-Tracker](https://github.com/code-qtzl/Terminal-Task-Tracker) - A classic to-do list that lives in your terminal. [Interactive Walkthrough](https://code-qtzl.github.io/Terminal-Task-Tracker/)
 
 ## Workshops
 
