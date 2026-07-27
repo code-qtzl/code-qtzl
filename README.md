@@ -16,7 +16,6 @@ title: Front End Software Engineer
 
 - [TurboFeed-LowVol](https://github.com/code-qtzl/TurboFeed-LowVol) - **2026 AITX Community x Codex Hackathon** • From one ad concept, to infinite platform-ready variations.
 - [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **2026 GitHub Copilot CLI Challenge** • A tool to log and visualize blood sugar and insulin data.
-- [Asteroids](https://github.com/code-qtzl/asteroids) - **2025 AWS Game Challenge** • A rebuild of a rebuild of the classic Asteroids game using Amazon Q Developer CLI.
 - [WingScrape CLI](https://github.com/code-qtzl/wing-scrape) - **2025 Boot.Dev Summer Hackathon** • Explore the world of [HotOnes](https://www.youtube.com/@FirstWeFeast/videos) in your terminal.
 
 ## Projects
