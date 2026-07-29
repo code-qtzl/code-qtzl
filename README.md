@@ -5,7 +5,7 @@ title: Front End Software Engineer
 
 ## Open-Source Contributions
 
-- [Artic-MCP](https://github.com/mikechao/artic-mcp) - A MCP server for searching and interacting with museum artworks via AI, used with the Claude Desktop App.
+- [Artic-MCP](https://github.com/mikechao/artic-mcp) - A MCP server for searching and interacting with museum artworks, used with the Claude Desktop App.
 - [Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A web application for creating and animating ASCII art.
 - [Coder](https://github.com/coder/coder) - Set up development environments in your public or private cloud infrastructure.
 - [Databricks](https://github.com/databricks/app-templates) - Starter kits and boilerplate templates designed to accelerate Databricks App development.
