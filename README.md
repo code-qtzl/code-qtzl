@@ -14,9 +14,10 @@ title: Front End Software Engineer
 
 ## Hackathons/Challenges
 
-- [TurboFeed-LowVol](https://github.com/code-qtzl/TurboFeed-LowVol) - **2026 AITX Community x Codex Hackathon** • From one ad concept, to infinite platform-ready variations.
-- [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **2026 GitHub Copilot CLI Challenge** • A tool to log and visualize blood sugar and insulin data.
-- [WingScrape CLI](https://github.com/code-qtzl/wing-scrape) - **2025 Boot.Dev Summer Hackathon** • Explore the world of [HotOnes](https://www.youtube.com/@FirstWeFeast/videos) in your terminal.
+- [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **GitHub Copilot CLI Challenge** • A tool to log and visualize blood sugar and insulin data.
+- [Lumi](https://github.com/code-qtzl/Lumi) - **Call for Code AI: United Against Trafficking** • AI-powered training simulator for frontline professionals.
+- [TurboFeed-LowVol](https://github.com/code-qtzl/TurboFeed-LowVol) - **AITX Community x Codex Hackathon** • From one ad concept, to infinite platform-ready variations.
+- 
 
 ## Projects
 
