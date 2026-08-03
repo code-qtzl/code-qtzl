@@ -17,7 +17,6 @@ title: Front End Software Engineer
 - [Diabetes Log CLI](https://github.com/code-qtzl/diabetes-log-cli) - **GitHub Copilot CLI Challenge** • A tool to log and visualize blood sugar and insulin data.
 - [Lumi](https://github.com/code-qtzl/Lumi) - **Call for Code AI: United Against Trafficking** • AI-powered training simulator for frontline professionals.
 - [TurboFeed-LowVol](https://github.com/code-qtzl/TurboFeed-LowVol) - **AITX Community x Codex Hackathon** • From one ad concept, to infinite platform-ready variations.
-- 
 
 ## Projects
 
