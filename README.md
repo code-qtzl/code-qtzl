@@ -31,8 +31,9 @@ title: Front End Software Engineer
 
 ## Blog Posts
 
-- [What is qtzl?](https://medium.com/@a.a.zepeda003/hello-1bbad29878ac) - An introduction to “Code-Quetzal” and the meaning behind the name.
 - [Ascii Motion Application](https://medium.com/@a.a.zepeda003/using-ascii-motion-to-animate-my-name-on-my-portfolio-9ad6b5fadc31) - A walkthrough of using [ASCII-Motion](https://ascii-motion.app/) to animate my name for my portfolio site.
+- [What is qtzl?](https://medium.com/@a.a.zepeda003/hello-1bbad29878ac) - An introduction to “Code-Quetzal” and the meaning behind the name.
+
 
 ## Fun Facts
 
