@@ -1,6 +1,6 @@
 ```yaml
 name: Andres Zepeda
-title: Software Developer | Frontend-Focused
+title: Software Developer
 ```
 
 ## Open-Source Contributions
