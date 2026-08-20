@@ -32,7 +32,7 @@ alias: Code-Quetzal
 
 ## Blog Posts
 
-- [Ascii Motion Application](https://medium.com/@a.a.zepeda003/using-ascii-motion-to-animate-my-name-on-my-portfolio-9ad6b5fadc31) - A walkthrough of using [ASCII-Motion](https://ascii-motion.app/) to animate my name for my [portfolio site](https://www.azepeda.dev/).
+- [Ascii Motion Application](https://medium.com/@a.a.zepeda003/using-ascii-motion-to-animate-my-name-on-my-portfolio-9ad6b5fadc31) - A walkthrough of using **ASCII-Motion** to animate my name for my [portfolio site](https://www.azepeda.dev/).
 - [What is qtzl?](https://medium.com/@a.a.zepeda003/hello-1bbad29878ac) - An introduction to “Code-Quetzal” and the meaning behind the name.
 
 
