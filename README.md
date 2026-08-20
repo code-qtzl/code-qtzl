@@ -7,7 +7,7 @@ alias: Code-Quetzal
 ## Open-Source Contributions
 
 - [Artic-MCP](https://github.com/mikechao/artic-mcp) - A MCP server for searching and interacting with museum artworks, used with the [Claude Desktop App](https://claude.com/download).
-- [Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A web application for creating and animating ASCII art.
+- [Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A web application for creating and animating ASCII art. [Check mine out](https://ascii-motion.app/community/project/10b59a51-da05-4a47-957f-782c7f054918)
 - [Coder](https://github.com/coder/coder) - Set up development environments in your public or private cloud code base.
 - [Databricks](https://github.com/databricks/app-templates) - Starter kits and boilerplate templates designed to accelerate Databricks App development.
 - [JustAJobApp](https://github.com/JustAJobApp/jobseeker-analytics) - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.
