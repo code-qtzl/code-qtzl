@@ -29,7 +29,6 @@ alias: Code-Quetzal
 ## Workshops
 
 - [El FlappyBird](https://github.com/code-qtzl/El-FlappyBird) - **2026 AWS Community Tour** • Hands-on workshop on agentic AI development.
-- [Weather App](https://github.com/code-qtzl/github-copilot-get-started) - **2026 GitHub Copilot Dev Days** • Hands-on workshop using Open-Meteo API
 
 ## Blog Posts
 
