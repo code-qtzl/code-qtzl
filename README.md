@@ -26,10 +26,6 @@ alias: Code-Quetzal
 - [Country-Insights](https://github.com/code-qtzl/Country-Insights) - A React web app for querying countries and territory data. [Demo](https://code-qtzl.github.io/Country-Insights/)
 - [Terminal-Task-Tracker](https://github.com/code-qtzl/Terminal-Task-Tracker) - A classic to-do list that lives in your terminal. [Interactive Walkthrough](https://code-qtzl.github.io/Terminal-Task-Tracker/)
 
-## Workshops
-
-- [El FlappyBird](https://github.com/code-qtzl/El-FlappyBird) - **2026 AWS Community Tour** • Hands-on workshop on agentic AI development.
-
 ## Blog Posts
 
 - [Ascii Motion Application](https://medium.com/@a.a.zepeda003/using-ascii-motion-to-animate-my-name-on-my-portfolio-9ad6b5fadc31) - A walkthrough of using **ASCII-Motion** to animate my name for my [portfolio site](https://www.azepeda.dev/).
