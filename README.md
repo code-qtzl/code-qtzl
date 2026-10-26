@@ -8,9 +8,7 @@ alias: Code-Quetzal
 
 - [Artic-MCP](https://github.com/mikechao/artic-mcp) - A MCP server for searching and interacting with museum artworks, used with the [Claude Desktop App](https://claude.com/download).
 - [Ascii-Motion](https://github.com/CameronFoxly/Ascii-Motion) - A web application for creating and animating ASCII art.
-- [Coder](https://github.com/coder/coder) - Set up development environments in your public or private cloud code base.
 - [JustAJobApp](https://github.com/JustAJobApp/jobseeker-analytics) - Simplify your job search. Connect Gmail to auto-track every application in one dashboard.
-- [Storybook](https://github.com/storybookjs/storybook) - Build, document, and test UI components in isolation.
 
 ## Hackathons/Challenges
 
